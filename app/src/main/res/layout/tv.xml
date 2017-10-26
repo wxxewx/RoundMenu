@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textColor="#fff"
+    android:text="全部"
+    android:textSize="20sp"
+    android:background="@drawable/tv_shap"
+    android:layout_width="200px"
+    android:gravity="center"
+    android:layout_height="200px">
+
+</TextView>
